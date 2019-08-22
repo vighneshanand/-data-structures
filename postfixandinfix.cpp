@@ -47,6 +47,7 @@ int main()
 { 
     string exp = "ab*c+"; 
     cout << getInfix(exp); 
+  cout<<"RA1811029010025";
     return 0; 
 } 
 
